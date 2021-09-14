@@ -1,0 +1,8 @@
+dataclass-wizard
+gspread
+mkdocs
+mkdocs-material
+mkdocs-material-extensions
+oauth2client
+pymdown-extensions
+python-dotenv
